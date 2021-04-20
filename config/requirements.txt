@@ -11,7 +11,7 @@ sqlparse==0.3.1
 ua-parser==0.10.0
 user-agents==2.1
 mysqlclient==1.4.6
-Pillow==7.1.2
+Pillow==8.1.1
 djoser==2.0.3
 djangorestframework-jwt==1.11.0
 pandas==1.1.1
